@@ -25,6 +25,11 @@ Train-  99.66
 
 Test- 71.33
 
+## DenseNet121
+Train- 99.77
+
+Test- 68.17
+
 ## MobileNetV2
 Train- 99.99
 
