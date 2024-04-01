@@ -17,22 +17,3 @@ Test- 60.00
 
 ## InceptionV3
 Train - 99.24
-
-Test- 77.50
-
-## Xception
-Train-  99.66
-
-Test- 71.33
-
-## DenseNet121
-Train- 99.77
-
-Test- 68.17
-
-## MobileNetV2
-Train- 99.99
-
-Test- 65.17
-
-
